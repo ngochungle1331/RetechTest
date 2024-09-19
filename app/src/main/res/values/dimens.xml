@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="img_width_100">100dp</dimen>
+    <dimen name="img_height_100">100dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="radius_20">20dp</dimen>
+    <dimen name="width_1">1dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_22">22sp</dimen>
+    <dimen name="radius_10">10dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="height_25">25dp</dimen>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RetechTest</string>
+    <string name="user_list">User List</string>
+    <string name="follow">Follow</string>
+    <string name="message">Message</string>
+    <string name="repositories">Repositories</string>
+    <string name="public_gists">Public Gists</string>
+    <string name="organizations">Organizations</string>
+    <string name="public_repositories">Public Repositories</string>
+    <string name="empty_data">Empty data</string>
+    <string name="no_blog">No Blog</string>
+    <string name="no_twitter_username">No twitter username</string>
+    <string name="location_hidden">Location hidden</string>
+    <string name="blog_hidden">Blog hidden</string>
+</resources>
